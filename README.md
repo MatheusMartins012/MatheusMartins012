@@ -50,7 +50,7 @@
 
 ## Cuida 🔥
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Matheus%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabreeu/)](https://www.linkedin.com/in/gustavoabreeu/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Matheus%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmartins012/)](https://www.linkedin.com/in/matheusmartins012/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-emdesenvolvimento-utilizando?style=flat-square&logo=firefox&logoColor=white)](https://google.com)
 
 
